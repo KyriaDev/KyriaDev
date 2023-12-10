@@ -8,7 +8,7 @@
 
   - 🔭 Eu estou atualmente trabalhando apenas em adquirir conhecimento.
 - 🌱 Eu estou atualmente aprendendo a fazer aplicações de console em C#, através do Visual Studio Code.
-- 🤝 Eu estou em busca de conseguir fazer boas conexões e networking eficiente.
+- 🤝 Eu estou em busca de boas conexões e networking eficiente.
 
 
 ## 💻 TECNOLOGIAS/LINGUAGENS/FERRAMENTAS QUE ESTOU APRENDENDO
@@ -35,7 +35,7 @@ Por enquanto eu ainda não fiz projetos pessoais, mas em breve farei.
 
 Aqui informarei quais licenças uso nos meus projetos, quando eu começar a utilizálas.
 
-----------------------------------------------------
+---------------------------------------
 
 ### 📊 MEUS STATUS
 
