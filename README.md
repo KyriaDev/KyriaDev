@@ -19,7 +19,9 @@
 > 🚀 Eu sou uma desenvolvedora .NET que está iniciando nos estudos, e aspiro futuramente me tornar Game Developer.
 >
 <br/>
+
 ![](lineBar.png)
+
 ## 💻 TECNOLOGIAS/LINGUAGENS/FERRAMENTAS QUE ESTOU APRENDENDO
  
 Lista das principais tecnologias, ferramentas e bibliotecas que eu estou utilizando/aprendendo.
@@ -49,10 +51,9 @@ Por enquanto eu ainda não fiz projetos pessoais, mas em breve farei.
 ### 🌐 MINHAS REDES SOCIAIS
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kyria-letícia-lima-de-almeida-3a1bbb263/) 
-![](lineBar.png)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/KyriaDev/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/KyriaDev)
-
-
-
+![](lineBar.png)
 ### VOCÊ É ESPECIAL, É O MEU VISITANTE NÚMERO:
 <img src="https://profile-counter.glitch.me/KyriaDev/count.svg">
+
+![](lineBar.png)
