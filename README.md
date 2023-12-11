@@ -1,14 +1,24 @@
-# 🚀 SOBRE MIM
 
 ## 📝 APRESENTAÇÃO
  ### Olá 👋, eu sou a Kyria!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=32&duration=4991&pause=1&color=FF66C4&background=FFFFFF00&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=680&lines=+%F0%9F%92%9COlá+devs%2C+meu+nome+%C3%A9%C2%A0Kyria!+%F0%9F%91%8B;%F0%9F%92%9CSou+desenvolvedora+back-end!)](https://git.io/typing-svg)
+## 🚀 SOBRE MIM
 
-  Eu sou uma desenvolvedora .NET que está iniciando nos estudos, e aspiro futuramente me tornar Game Developer. 
-   Meus estudos estão sendo feitos através dos programas de ensino da DIO!
-
-  - 🔭 Eu estou atualmente trabalhando apenas em adquirir conhecimento.
-- 🌱 Eu estou atualmente aprendendo a fazer aplicações de console em C#, através do Visual Studio Code.
-- 🤝 Eu estou em busca de boas conexões e networking eficiente.
+>👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+>
+>🎓 Estudando na DIO!
+>
+>🌱 Aprendendo mais sobre: Git e Github, .NET, C#,
+>
+>🔭 Atualmente trabalhando apenas em adquirir conhecimento.
+>
+>🌱 Atualmente fazendo aplicações de console em C#, através do Visual Studio Code.
+>
+>🤝 Em busca de boas conexões e networking eficiente.
+ 
+> 🚀 Eu sou uma desenvolvedora .NET que está iniciando nos estudos, e aspiro futuramente me tornar Game Developer.
+>
+<br/>
 
 
 ## 💻 TECNOLOGIAS/LINGUAGENS/FERRAMENTAS QUE ESTOU APRENDENDO
