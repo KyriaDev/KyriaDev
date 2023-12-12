@@ -1,5 +1,5 @@
 ![](lineBar.png)
-## 📝 APRESENTAÇÃO
+## 📝 LEIA-ME
  ### Olá 👋, eu sou a Kyria!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=32&duration=4991&pause=1&color=FF66C4&background=FFFFFF00&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=680&lines=+%F0%9F%92%9COlá+devs%2C+meu+nome+%C3%A9%C2%A0Kyria!+%F0%9F%91%8B;%F0%9F%92%9CSou+desenvolvedora+back-end!)](https://git.io/typing-svg)
 ## 🚀 SOBRE MIM
