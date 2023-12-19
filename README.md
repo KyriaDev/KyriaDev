@@ -8,7 +8,7 @@
 >
 >🎓 Estudando na DIO!
 >
->🌱 Aprendendo mais sobre: Git e Github, .NET, C#,
+>🌱 Aprendendo mais sobre: Git e Github, .NET, C#, HTML, CSS, JS
 >
 >🔭 Atualmente trabalhando apenas em adquirir conhecimento.
 >
@@ -16,7 +16,7 @@
 >
 >🤝 Em busca de boas conexões e networking eficiente.
  
-> 🚀 Eu sou uma desenvolvedora .NET que está iniciando nos estudos, e aspiro futuramente me tornar Game Developer.
+> 🚀 Eu sou uma desenvolvedora WEB que está iniciando nos estudos, e aspiro futuramente me tornar Game Developer e Full-Stack.
 >
 <br/>
 
