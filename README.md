@@ -6,7 +6,7 @@
 
 >👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 >
->🎓 Estudando na DIO!
+>🎓 Estudando pela DIO!
 >
 >🌱 Aprendendo mais sobre: Git e Github, .NET, C#, HTML, CSS, JS
 >
