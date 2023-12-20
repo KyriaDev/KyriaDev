@@ -28,6 +28,7 @@ Lista das principais tecnologias, ferramentas e bibliotecas que eu estou utiliza
 
     - HTML: Linguagem de marcação, para criação de sites.
     - CSS: Linguagem de estilização, para estilização de sites.
+    - JavaScript: Linguagem de programação, que adiciona interatividade ao seu site.
     - .NET: Ambiente de desenvolvimento, para criar os mais variados tipos de aplicações.
     - C#: Linguagem de programação para o ambiente .NET. 
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
