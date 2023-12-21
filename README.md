@@ -1,7 +1,7 @@
 ![](lineBar.png)
 ## 📝 LEIA-ME
  ### Olá 👋, eu sou a Kyria!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=32&duration=4991&pause=1&color=FF66C4&background=FFFFFF00&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=680&lines=+%F0%9F%92%9C+Olá+devs%2C+meu+nome+%C3%A9%C2%A0Kyria!+%F0%9F%91%8B;%F0%9F%92%9C+Sou+desenvolvedora+Web/C#!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=32&duration=4991&pause=1&color=FF66C4&background=FFFFFF00&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=680&lines=+%F0%9F%92%9C+Olá+devs%2C+meu+nome+%C3%A9%C2%A0Kyria!+%F0%9F%91%8B;%F0%9F%92%9C+Sou+desenvolvedora+Web/CSharp!)](https://git.io/typing-svg)
 ## 🚀 SOBRE MIM
 
 >👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
