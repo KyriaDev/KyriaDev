@@ -1,10 +1,10 @@
 ![](lineBar.png)
 ## 📝 LEIA-ME
- ### Olá 👋, eu sou a Kyria!
+ ### Olá 👋, sou a Kyria!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=32&duration=4991&pause=1&color=FF66C4&background=FFFFFF00&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=680&lines=+%F0%9F%92%9C+Olá+devs%2C+meu+nome+%C3%A9%C2%A0Kyria!+%F0%9F%91%8B;%F0%9F%92%9C+Sou+desenvolvedora+Web/.NET!)](https://git.io/typing-svg)
 ## 🚀 SOBRE MIM
 
->👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+>👩🏾‍💻 Explorando novas tecnologias e desenvolvendo softwares básicos.
 >
 >🎓 Estudando pela DIO!
 >
@@ -12,11 +12,11 @@
 >
 >🔭 Atualmente trabalhando apenas em adquirir conhecimento.
 >
->🌱 Atualmente fazendo aplicações de console em C#, através do Visual Studio Code.
+>🌱 Atualmente fazendo aplicações de console em C# e páginas Web, através do Visual Studio Code.
 >
 >🤝 Em busca de boas conexões e networking eficiente.
  
-> 🚀 Eu sou uma desenvolvedora WEB que está iniciando nos estudos, e aspiro futuramente me tornar Game Developer e Full-Stack.
+> 🚀 Eu sou uma desenvolvedora WEB/.NET que está iniciando nos estudos, e aspiro futuramente me tornar Game Developer e Full-Stack.
 >
 <br/>
 
@@ -77,7 +77,7 @@ SOFTWARE.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyriaDev&layout=compact)](https://github.com/KyriaDev/github-readme-stats)
 ![](lineBar.png)
 
-### VOCÊ É ESPECIAL, É O MEU VISITANTE NÚMERO:
+### VOCÊ É ESPECIAL, É O MEU VISITANTE:
 <img src="https://profile-counter.glitch.me/KyriaDev/count.svg">
 
 ![](lineBar.png)
